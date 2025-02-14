@@ -14,7 +14,7 @@ This project showcases my journey, skills, and web development projects. Built w
 
 You can preview the site design and its animations here:
 
-[Insert your live demo link here]
+[[Insert your live demo link here](https://github.com/kiluazoldick/Nanga_Doumer_Portfolio/blob/main/preview.png)]
 
 ## 📂 Project Structure
 
