@@ -12,7 +12,7 @@ This project showcases my journey, skills, and web development projects. Built w
 📱 **Preview**  
 You can preview the site design and its animations here:
 
-[Portfolio Preview](https://github.com/kiluazoldick/Nanga_Doumer_Portfolio/blob/main/preview.png)
+[Portfolio Preview](preview.png)
 
 📂 **Project Structure**
 - `index.html`: The homepage with all the key sections.
